@@ -9,7 +9,7 @@
 
 <html lang="zxx">
 <head>
-    <title>The Plaza - eCommerce Template</title>
+    <title>The Plaza </title>
     <meta charset="UTF-8">
     <meta name="description" content="The Plaza eCommerce Template">
     <meta name="keywords" content="plaza, eCommerce, creative, html">
