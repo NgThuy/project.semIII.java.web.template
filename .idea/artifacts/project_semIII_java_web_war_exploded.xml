@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="project.semIII.java.web:war exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/project_semIII_java_web_war_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="project.semIII.java.web/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="project.semIII.java.web" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
